@@ -1,51 +1,15 @@
-# About Devdesk project
+# 💻 Sun-min Kim | Aspiring Full-Stack & Android Developer
 
-Hi there 👋 I'm **developer**. 🚀 
-I am a Bachelor candidate of Seoul Women's Univercity, expecting the degree early next year.
-With my major in *Digital Media design and Applications* and *Chemistry*, I have experiences in many scientific fields.  
-Currently, I'm focusing to enhance some professional knowledge in Android programming.
+Early 2027 Bachelor candidate from **Seoul Women's University** with a double major in **Digital Media Design** and **Chemistry**. 
 
-I enjoy watching musicals, writings and readings. 🎟️🖋️🔖  
-I hope to develop life-enhancing services. 🌟
+I love bridge the gap between complex logic and intuitive design. Currently, I am expanding my horizons into **Android Programming** and **Modern Web Architectures**.
 
+### 🔍 Current Interests
+*   📱 **Android Ecosystem:** Mastering professional Android development patterns.
+*   🌐 **Full-Stack Development:** Building robust web applications using **Java Spring Boot**.
+*   🎨 **UI/UX Design:** Applying Digital Media Design principles to front-end projects.
 
-### 💪 Skills
-**Main Platform**  
-<p>
-  
-</p>
-
-**Main Language**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-**Experienced**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Contact
-✉️ rlatjsals1221@gmail.com
-
-<!--
-**EunaJ99/EunaJ99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Notable Projects
+*   **DevDesk:** A job application and interview management platform.
+*   **React Todo App:** A modern task management tool with Styled-components.
+*   **Motion Detection CCTV:** A real-time surveillance project using OpenCV.
