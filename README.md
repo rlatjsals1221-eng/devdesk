@@ -1,15 +1,14 @@
-# 💻 Sun-min Kim | Aspiring Full-Stack & Android Developer
+# 💻 Sun-min Kim | Transitioning from Language to Logic
 
-Early 2027 Bachelor candidate from **Seoul Women's University** with a double major in **Digital Media Design** and **Chemistry**. 
+Bachelor candidate at **Busan University of Foreign Studies** (Korean Language Education). 
 
-I love bridge the gap between complex logic and intuitive design. Currently, I am expanding my horizons into **Android Programming** and **Modern Web Architectures**.
+I spent my early years mastering the **logic of human language**. Now, I am applying that same analytical rigor to **computer languages**. I believe that great software, like a great language, should be intuitive and well-structured.
 
-### 🔍 Current Interests
-*   📱 **Android Ecosystem:** Mastering professional Android development patterns.
-*   🌐 **Full-Stack Development:** Building robust web applications using **Java Spring Boot**.
-*   🎨 **UI/UX Design:** Applying Digital Media Design principles to front-end projects.
+### 🔍 Current Journey.
+*   🌐 **Full-Stack:** Building robust backend systems with **Java Spring Boot**.
+*   📚 **Education Meets Tech:** Interested in how technology can innovate language learning and communication.
 
 ### 🏗️ Notable Projects
-*   **DevDesk:** A job application and interview management platform.
-*   **React Todo App:** A modern task management tool with Styled-components.
-*   **Motion Detection CCTV:** A real-time surveillance project using OpenCV.
+*   **DevDesk:** Job application & interview management platform.
+*   **Motion Detection CCTV:** Real-time surveillance using OpenCV.
+*   **Language Learning Scripts:** Developed logical curriculum for Korean grammar points.
