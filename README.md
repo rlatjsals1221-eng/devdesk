@@ -1,4 +1,4 @@
-# 💻 Sun-min Kim | Transitioning from Language to Logic
+# 💻 Seon-min Kim | Transitioning from Language to Logic
 
 > "Great software, like a great language, should be intuitive and well-structured."
 
